@@ -9,7 +9,7 @@ Setup a cronjob for the Scheduler:
 Create a new Task:
 
 ```php
-interface TaskInterface {
+class MyTask implements \Famelo\Scheduler\Tasks\TaskInterface {
   /**
    * Returns the Interval at which this task will be run
 	 * The Syntax is equivalent to cron.

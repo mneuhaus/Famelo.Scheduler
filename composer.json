@@ -1,0 +1,14 @@
+{
+    "name": "famelo/scheduler",
+    "type": "typo3-flow-package",
+    "description": "",
+    "require": {
+        "typo3/flow": "*",
+        "mtdowling/cron-expression": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Famelo\\Scheduler": "Classes"
+        }
+    }
+}

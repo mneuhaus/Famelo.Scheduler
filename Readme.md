@@ -32,5 +32,5 @@ class MyTask implements \Famelo\Scheduler\Tasks\TaskInterface {
   }
 }
 ?>
-
+```
 The Interval is based on [mtdowling/cron-expression](https://github.com/mtdowling/cron-expression) which is based on the cron syntax

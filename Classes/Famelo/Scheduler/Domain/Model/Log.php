@@ -2,7 +2,7 @@
 namespace Famelo\Scheduler\Domain\Model;
 
 /*                                                                        *
- * This script belongs to the TYPO3 Flow package "Famelo.Notify".         *
+ * This script belongs to the TYPO3 Flow package "Famelo.Scheduler".      *
  *                                                                        *
  *                                                                        */
 
